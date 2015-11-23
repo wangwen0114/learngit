@@ -1,4 +1,2 @@
-hello world£¡£¡£¡£¡£¡£¡£¡£¡£¡£¡
-
-
-come on£¡£¡£¡£¡£¡£¡£¡£¡£¡£¡£¡£¡
+hello world
+come on
